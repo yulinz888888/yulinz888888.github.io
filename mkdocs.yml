@@ -1,0 +1,23 @@
+site_name: Yulin's Website
+
+theme:
+  name: material
+  logo: img/panda-icon.jpg
+  features:
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.top
+      - navigation.indexes
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Projects: projects.md
+  - Publication: publications.md
+  - Tools: tools.md
+  - Teaching: teaching.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - toc
+  - admonition
