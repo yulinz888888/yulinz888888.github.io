@@ -5,7 +5,7 @@ hide:
 
 ### Address
 
-LTI, INNSET/UPJV, 48 Rue d'Ostende, 02100 Saint-Quentin, France
+UPJV, 48 Rue d'Ostende, 02100 Saint-Quentin, France
 
 ### Tel
 
