@@ -25,6 +25,8 @@ hide:
     - UV-Bot based AI
 - Project coordinator
 
+![UV-Bot](img/Logo-REACT-EU.jpg)
+
 ---
 
 ## Allocation de recherche Hauts-de-France
