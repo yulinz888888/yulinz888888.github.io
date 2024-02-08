@@ -22,7 +22,7 @@ hide:
 !!! note ""
     - 2021-2023
     - European project React-EU
-    - UV-Bot based AI
+    - AI-based UV-Bot
 - Project coordinator
 
 ![UV-Bot](img/Logo-REACT-EU.jpg)
