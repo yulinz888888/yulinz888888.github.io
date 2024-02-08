@@ -14,6 +14,8 @@ hide:
 
 - Coordinator of UPJV Team, Leader of WP 1 Cloud computing
 
+![AiBLE](img/aible_logo.jpg)
+
 ---
 
 ## UV-Bot
