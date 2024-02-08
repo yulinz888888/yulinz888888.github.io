@@ -14,7 +14,8 @@ Google Cloud Faculty Expert ([Link](https://cloud.google.com/edu/faculty/experts
 
 ![Robot](img/bandeau.jpg)
 
-> Cloud Computing / Software Engineering / Model Driven Engineering / Cloud Robotics
+> Cloud Computing / Software Architecture / Model Driven Engineering / AI / Cloud Robotics
 
 ### News
+> AWS Certified Solutions Architect – Professional, 2022
 > Program Committee Membership, MODELSWARD 2021
