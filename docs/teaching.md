@@ -3,6 +3,11 @@ hide:
   - navigation
 ---
 
+## Responsable Master Robotics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lAh5tsgYjLY?si=pZgQ7vNyUetebsP5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Current courses
 
 ### Master 2
@@ -34,3 +39,5 @@ hide:
 * C++, The University of Toulouse, 2012
 * Algorithm and Programming (Algorithmique et programmation), The University of Toulouse, 2012
 * Algorithm and Programming (Algorithmique et programmation), University of Picardie Jules Verne, 2017
+
+
