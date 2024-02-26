@@ -13,7 +13,7 @@ Title: A multi-dimensional architecture description language for forward and rev
 
 ### Journal and Chapters
 
-●	Lucien Ngale, Eddy Caron, Huaxi Zhang, **Fog-Robotics Infrastructures Simulation-based Sizing Approach**, Springer Nature Computer Science book series, Coming soon (2024)
+Lucien Ngale, Eddy Caron, Huaxi Zhang, **Fog-Robotics Infrastructures Simulation-based Sizing Approach**, Springer Nature Computer Science book series, Coming soon (2024)
 
 Yejian Zhao, Xiaochuan Luo, Huaxi (Yulin) Zhang, **The application of heterogeneous graph neural network and deep reinforcement learning in hybrid flow shop scheduling problem.** Comput. Ind. Eng. 187: 109802 (2024)
 
