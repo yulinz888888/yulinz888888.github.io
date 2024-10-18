@@ -13,9 +13,15 @@ Title: A multi-dimensional architecture description language for forward and rev
 
 ### Journal and Chapters
 
-Lucien Ngale, Eddy Caron, Huaxi Zhang, **Fog-Robotics Infrastructures Simulation-based Sizing Approach**, Springer Nature Computer Science book series, Coming soon (2024)
+Lucien Ngale, Eddy Caron, Yulin Zhang, **Fog-Robotics Infrastructures Simulation-Based Sizing Approach.** In: Cloud Computing and Services Science, Springer Nature Switzerland, 2024. Print ISBN: 978-3-031-68164-6, Electronic ISBN: 978-3-031-68165-3. [https://www.springerprofessional.de/en/fog-robotics-infrastructures-simulation-based-sizing-approach/27471668](https://www.springerprofessional.de/en/fog-robotics-infrastructures-simulation-based-sizing-approach/27471668)
 
-Yejian Zhao, Xiaochuan Luo, Huaxi (Yulin) Zhang, **The application of heterogeneous graph neural network and deep reinforcement learning in hybrid flow shop scheduling problem.** Comput. Ind. Eng. 187: 109802 (2024)
+Juntao Zhao, Mhand Hifi, Yulin Zhang, Xiaochuan Luo, **An incremental method-based machine learning approach for max–min knapsack with multiple scenarios,** Computers & Industrial Engineering, vol. 190, 2024, 109984. ISSN: 0360-8352. [https://www.sciencedirect.com/science/article/abs/pii/S0360835224001050](https://www.sciencedirect.com/science/article/abs/pii/S0360835224001050)
+
+Juntao Zhao, Mhand Hifi, Yulin Zhang, Xiaochuan Luo, **A Cooperative Machine Learning-Based Algorithm: The Case of Max-Min Knapsack Problem with Multiple,** Intelligent Systems Design and Applications: Real World Applications, Volume 5, 2024, p. 211. [https://link.springer.com/chapter/10.1007/978-3-031-64847-2_19](https://link.springer.com/chapter/10.1007/978-3-031-64847-2_19)
+
+Huaxi (Yulin) Zhang, Yuyang Wang, Xiaochuan Luo, Baptiste Mereaux and Lei Zhang, **Robust Localization Algorithm for Indoor Robots Based on the Branch-and-Bound Strategy.** Journal of Engineering Research and Sciences, vol.3, pp. 22-42, 2024. [https://www.jenrs.com/v03/i02/p004/](https://www.jenrs.com/v03/i02/p004/)
+
+Yejian Zhao, Xiaochuan Luo, Huaxi (Yulin) Zhang, **The application of heterogeneous graph neural network and deep reinforcement learning in hybrid flow shop scheduling problem.** Comput. Ind. Eng. 187: 109802 (2024).
 
 Yang Yu, Xiaochuan Luo, Yuan Wang, Huaxi (Yulin) Zhang, **Estimation of boundary condition of two-dimensional nonlinear PDE with application to continuous casting.** Comput. Math. Appl. 80(12): 3082-3097 (2020).
 
@@ -25,9 +31,12 @@ B. Hamid, H. Y. Zhang, J. Geisel & D. Gonzalez. **First Experiment on Modeling S
 Lifecycle Process in Railway Systems.** International Journal of Dependable and
 Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011.
 
+
 ### Conference
 
-Lucien Ngale, Eddy Caron, Huaxi Zhang, Mélanie Fontaine. **Simulation-Based Estimation of Resource Needs in Fog Robotics Infrastructures**. 13th International Conference on Cloud Computing and Services Science, Apr 2023, Prague, Czech Republic. pp.100-111,
+F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **"IntelliMove: Enhancing Robotic Planning with Semantic Mapping."** In: Proceedings of the 25th Towards Autonomous Robotic Systems (TAROS) Conference, August 2024, London, UK, Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence, vol. 15051-15052, Springer.
+
+Juntao Zhao, Mhand Hifi, Yulin Zhang, Xiaochuan Luo, **"A Cooperative Machine Learning-Based Algorithm: The Case of Max-Min Knapsack Problem with Multiple Scenarios."** In: Proceedings of the International Conference on Intelligent Systems Design and Applications, Cham: Springer Nature Switzerland, December 2023, pp. 211-220.
 
 Zhao, Juntao, Xiaochuan Luo, Huaxi Zhang, Xin Wang, and Weichao Wang. **Vision Based Target Following UGV System Using YOLOv5 and ROS Platform**. In Proceedings of 2022 International Conference on Autonomous Unmanned Systems (ICAUS 2022), pp. 281-291. Singapore: Springer Nature Singapore, 2023.
 
