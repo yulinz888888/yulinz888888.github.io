@@ -13,7 +13,7 @@ Title: A multi-dimensional architecture description language for forward and rev
 
 ### Journal and Chapters
 
-Graph neural architecture for dynamic hybrid flowshop: addressing stochastic events and uncertain processing sequences, Neurocomputing, 2025.
+Weixiang Xu, Xiaochuan Luo, Yejian Zhao, Yulin Zhang, **Graph neural architecture for dynamic hybrid flowshop: Addressing stochastic events and uncertain processing sequences.** In: Neurocomputing, Volume 648, 2025, 130636, ISSN 0925-2312. [https://doi.org/10.1016/j.neucom.2025.130636](https://doi.org/10.1016/j.neucom.2025.130636)
 
 Lucien Ngale, Eddy Caron, Yulin Zhang, **Fog-Robotics Infrastructures Simulation-Based Sizing Approach.** In: Cloud Computing and Services Science, Springer Nature Switzerland, 2024. Print ISBN: 978-3-031-68164-6, Electronic ISBN: 978-3-031-68165-3. [https://www.springerprofessional.de/en/fog-robotics-infrastructures-simulation-based-sizing-approach/27471668](https://www.springerprofessional.de/en/fog-robotics-infrastructures-simulation-based-sizing-approach/27471668)
 
