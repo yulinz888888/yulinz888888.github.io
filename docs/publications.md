@@ -13,13 +13,11 @@ Title: A multi-dimensional architecture description language for forward and rev
 
 ### Journal and Chapters
 
-<<<<<<< HEAD
+Weixiang Xu, Xiaochuan Luo, Yejian Zhao, Yulin Zhang, **Graph neural architecture for dynamic hybrid flowshop: Addressing stochastic events and uncertain processing sequences.** In: Neurocomputing, Volume 648, 2025, 130636, ISSN 0925-2312. [https://doi.org/10.1016/j.neucom.2025.130636](https://doi.org/10.1016/j.neucom.2025.130636)
+
 Haixiao Wang, Xiaochuan Luo, Huaxi (Yulin) Zhang, **GPU-accelerated estimation of heat transfer coefficients in continuous casting under large interference by a novel multiagent-based dimensional learning Jaya algorithm**,
 Case Studies in Thermal Engineering, Volume 61,
 2024, 104974, ISSN 2214-157X, [https://doi.org/10.1016/j.csite.2024.104974](https://doi.org/10.1016/j.csite.2024.104974).
-=======
-Weixiang Xu, Xiaochuan Luo, Yejian Zhao, Yulin Zhang, **Graph neural architecture for dynamic hybrid flowshop: Addressing stochastic events and uncertain processing sequences.** In: Neurocomputing, Volume 648, 2025, 130636, ISSN 0925-2312. [https://doi.org/10.1016/j.neucom.2025.130636](https://doi.org/10.1016/j.neucom.2025.130636)
->>>>>>> 423094cb013119b379576a778e56c75ca96f2977
 
 Lucien Ngale, Eddy Caron, Yulin Zhang, **Fog-Robotics Infrastructures Simulation-Based Sizing Approach.** In: Cloud Computing and Services Science, Springer Nature Switzerland, 2024. Print ISBN: 978-3-031-68164-6, Electronic ISBN: 978-3-031-68165-3. [https://www.springerprofessional.de/en/fog-robotics-infrastructures-simulation-based-sizing-approach/27471668](https://www.springerprofessional.de/en/fog-robotics-infrastructures-simulation-based-sizing-approach/27471668)
 
