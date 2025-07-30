@@ -25,34 +25,34 @@ Juntao Zhao, Mhand Hifi, Yulin Zhang, Xiaochuan Luo, **A Cooperative Machine Lea
 
 Huaxi (Yulin) Zhang, Yuyang Wang, Xiaochuan Luo, Baptiste Mereaux and Lei Zhang, **Robust Localization Algorithm for Indoor Robots Based on the Branch-and-Bound Strategy.** Journal of Engineering Research and Sciences, vol.3, pp. 22-42, 2024. [https://www.jenrs.com/v03/i02/p004/](https://www.jenrs.com/v03/i02/p004/)
 
-Yejian Zhao, Xiaochuan Luo, Huaxi (Yulin) Zhang, **The application of heterogeneous graph neural network and deep reinforcement learning in hybrid flow shop scheduling problem.** Comput. Ind. Eng. 187: 109802 (2024).
+Yejian Zhao, Xiaochuan Luo, Huaxi (Yulin) Zhang, **The application of heterogeneous graph neural network and deep reinforcement learning in hybrid flow shop scheduling problem.** Comput. Ind. Eng. 187: 109802 (2024). [https://www.sciencedirect.com/science/article/abs/pii/S0360835223008264](https://www.sciencedirect.com/science/article/abs/pii/S0360835223008264)
 
-Yang Yu, Xiaochuan Luo, Yuan Wang, Huaxi (Yulin) Zhang, **Estimation of boundary condition of two-dimensional nonlinear PDE with application to continuous casting.** Comput. Math. Appl. 80(12): 3082-3097 (2020).
+Yang Yu, Xiaochuan Luo, Yuan Wang, Huaxi (Yulin) Zhang, **Estimation of boundary condition of two-dimensional nonlinear PDE with application to continuous casting.** Comput. Math. Appl. 80(12): 3082-3097 (2020). [https://www.sciencedirect.com/science/article/pii/S0898122120304235](https://www.sciencedirect.com/science/article/pii/S0898122120304235)
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A formal approach for managing component-based architecture evolution.** Sci. Comput. Program. 127: 24-49 (2016), Elsevier 2016.
 
 B. Hamid, H. Y. Zhang, J. Geisel & D. Gonzalez. **First Experiment on Modeling Safety
 Lifecycle Process in Railway Systems.** International Journal of Dependable and
-Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011.
+Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011. [https://www.igi-global.com/article/first-experiment-modeling-safety-lifecycle/65520](https://www.igi-global.com/article/first-experiment-modeling-safety-lifecycle/65520)
 
 
 ### Conference
 
-F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **"IntelliMove: Enhancing Robotic Planning with Semantic Mapping."** In: Proceedings of the 25th Towards Autonomous Robotic Systems (TAROS) Conference, August 2024, London, UK, Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence, vol. 15051-15052, Springer.
+F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **"IntelliMove: Enhancing Robotic Planning with Semantic Mapping."** In: Proceedings of the 25th Towards Autonomous Robotic Systems (TAROS) Conference, August 2024, London, UK, Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence, vol. 15051-15052, Springer. [https://arxiv.org/abs/2410.14851](https://arxiv.org/abs/2410.14851)
 
 Juntao Zhao, Mhand Hifi, Yulin Zhang, Xiaochuan Luo, **"A Cooperative Machine Learning-Based Algorithm: The Case of Max-Min Knapsack Problem with Multiple Scenarios."** In: Proceedings of the International Conference on Intelligent Systems Design and Applications, Cham: Springer Nature Switzerland, December 2023, pp. 211-220.
 
 Zhao, Juntao, Xiaochuan Luo, Huaxi Zhang, Xin Wang, and Weichao Wang. **Vision Based Target Following UGV System Using YOLOv5 and ROS Platform**. In Proceedings of 2022 International Conference on Autonomous Unmanned Systems (ICAUS 2022), pp. 281-291. Singapore: Springer Nature Singapore, 2023.
 
-H. Zhang and L. Zhang, **Cloud Robotics Architecture: Trends and Challenges**, 2019 IEEE International Conference on Service-Oriented System Engineering (SOSE), San Francisco East Bay, CA, USA, 2019, pp. 362-3625.
+H. Zhang and L. Zhang, **Cloud Robotics Architecture: Trends and Challenges**, 2019 IEEE International Conference on Service-Oriented System Engineering (SOSE), San Francisco East Bay, CA, USA, 2019, pp. 362-3625. [https://ieeexplore.ieee.org/document/8705800/](https://ieeexplore.ieee.org/document/8705800/)
 
-Zheng Guoxian, Zhang Lei, Zhang Yulin, Bo Ding, **Design of an Indoor Exploration and Multi-Objective Navigation System**, 2018 37th Chinese Control Conference, Wuhan, China.
+Zheng Guoxian, Zhang Lei, Zhang Yulin, Bo Ding, **Design of an Indoor Exploration and Multi-Objective Navigation System**, 2018 37th Chinese Control Conference, Wuhan, China. [https://ieeexplore.ieee.org/document/8483284](https://ieeexplore.ieee.org/document/8483284)
 
-J. Luo, L. Zhang and H. Y. Zhang, **Design of a cloud robotics middleware based on web service technology**, 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 487-492.
+J. Luo, L. Zhang and H. Y. Zhang, **Design of a cloud robotics middleware based on web service technology**, 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 487-492. [https://ieeexplore.ieee.org/document/8023654/](https://ieeexplore.ieee.org/document/8023654/)
 
-C. Huang, L. Zhang, T. Liu, and H.Y. Zhang, **A Control Middleware for Cloud Robotics**, 13th IEEE International Conference on Information and Automation (IEEE ICIA 2016), Ningbo, China, 2016.
+C. Huang, L. Zhang, T. Liu, and H.Y. Zhang, **A Control Middleware for Cloud Robotics**, 13th IEEE International Conference on Information and Automation (IEEE ICIA 2016), Ningbo, China, 2016. [https://ieeexplore.ieee.org/document/7832130/](https://ieeexplore.ieee.org/document/7832130/)
 
-Huaxi (Yulin) Zhang, Lei Zhang, Zheng Fang, Harold Trannois, Marianne Huchard, and Rene Zapata. **CRALA: Towards a domain specific language of architecture-centric cloud robotics.** In Proc. of the 2015 IEEE Int. Conf. on Information and Automation (ICIA2015), Lijiang, China, August 2015.
+Huaxi (Yulin) Zhang, Lei Zhang, Zheng Fang, Harold Trannois, Marianne Huchard, and Rene Zapata. **CRALA: Towards a domain specific language of architecture-centric cloud robotics.** In Proc. of the 2015 IEEE Int. Conf. on Information and Automation (ICIA2015), Lijiang, China, August 2015. [https://ieeexplore.ieee.org/document/7279332/](https://ieeexplore.ieee.org/document/7279332/)
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **An evolution management model for multi-level component-based software architectures.** Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering. Pittsburgh, USA, July 2015. AR 30%.
 
