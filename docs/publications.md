@@ -61,35 +61,35 @@ C. Huang, L. Zhang, T. Liu, and H.Y. Zhang, **A Control Middleware for Cloud Rob
 
 Huaxi (Yulin) Zhang, Lei Zhang, Zheng Fang, Harold Trannois, Marianne Huchard, and Rene Zapata. **CRALA: Towards a domain specific language of architecture-centric cloud robotics.** In Proc. of the 2015 IEEE Int. Conf. on Information and Automation (ICIA2015), Lijiang, China, August 2015. [https://ieeexplore.ieee.org/document/7279332/](https://ieeexplore.ieee.org/document/7279332/)
 
-A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **An evolution management model for multi-level component-based software architectures.** Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering. Pittsburgh, USA, July 2015. AR 30%.
+A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **An evolution management model for multi-level component-based software architectures.** Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering. Pittsburgh, USA, July 2015. AR 30%. [https://hal.science/hal-01245924](https://hal.science/hal-01245924)
 
-L. Zhang, H. Zhang, Quan Xu, Z. Fang and R. Zapataz. **Dedal2: An ADL supporting domain specific software development.** Intelligent Control and Automation (WCICA), 2014 11th World Congress on, Shenyang, 2014, pp. 5432-5437.
+L. Zhang, H. Zhang, Quan Xu, Z. Fang and R. Zapataz. **Dedal2: An ADL supporting domain specific software development.** Intelligent Control and Automation (WCICA), 2014 11th World Congress on, Shenyang, 2014, pp. 5432-5437. [https://ieeexplore.ieee.org/document/7053642/](https://ieeexplore.ieee.org/document/7053642/)
 
-H.Y. Zhang, L. Zhang, Q. Xu, C. Urtado, S. Vauttier and M. Huchard. **A formalized architecture-centric evolution process for component-based software system.** Intelligent Control and Automation (WCICA), 2014 11th World Congress on, Shenyang, 2014, pp. 3461-3466.
+H.Y. Zhang, L. Zhang, Q. Xu, C. Urtado, S. Vauttier and M. Huchard. **A formalized architecture-centric evolution process for component-based software system.** Intelligent Control and Automation (WCICA), 2014 11th World Congress on, Shenyang, 2014, pp. 3461-3466. [https://ieeexplore.ieee.org/document/7053291/](https://ieeexplore.ieee.org/document/7053291/)
 
-A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Fostering component reuse: automating the coherence verification of multi-level architecture descriptions.** Proceedings of the 9th International Conference on Software Engineering Advances. Nice, France, October 2014. AR 30%.
+A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Fostering component reuse: automating the coherence verification of multi-level architecture descriptions.** Proceedings of the 9th International Conference on Software Engineering Advances. Nice, France, October 2014. AR 30%. [http://hal-lirmm.ccsd.cnrs.fr/MAREL/hal-01245917v1](http://hal-lirmm.ccsd.cnrs.fr/MAREL/hal-01245917v1)
 
-A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Formal rules for reliable component-based architecture evolution.** Proceedings of the 11th international symposium on Formal Aspects of Component Software. Bertinoro, Italy, September 2014. AR 45%.
+A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Formal rules for reliable component-based architecture evolution.** Proceedings of the 11th international symposium on Formal Aspects of Component Software. Bertinoro, Italy, September 2014. AR 45%. [https://link.springer.com/chapter/10.1007/978-3-319-15317-9_8](https://link.springer.com/chapter/10.1007/978-3-319-15317-9_8)
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A three-level formal model for software architecture evolution.** Proceedings of the 7th Seminar on Advanced Techniques &Tools for Software Evolution. L'Aquila, Italy, July 2014.
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Modélisation et vérification formelles en B des architectures logicielles à trois niveaux.** Actes de la troisième Conférence en IngénieriE du Logiciel, Catherine Dubois, Nicole Levy, Marie-Agnès Peraldi-Frati et Christelle Urtado éditeurs, pages 71-77. Paris, France, Juin 2014.
 
-H. (Yulin) Zhang, C. Urtado, S. Vauttier, L. Zhang, M. Huchard, and B. Coulette, **Dedal-CDL: Modeling First-class Architectural Changes in Dedal.** Proceedings of the Joint 10th Working IEEE/IFIP Conference on Software Architecture & 6th European Conference on Software Architecture. Helsinki, Finland, August 2012. AR 35,7%.
+H. (Yulin) Zhang, C. Urtado, S. Vauttier, L. Zhang, M. Huchard, and B. Coulette, **Dedal-CDL: Modeling First-class Architectural Changes in Dedal.** Proceedings of the Joint 10th Working IEEE/IFIP Conference on Software Architecture & 6th European Conference on Software Architecture. Helsinki, Finland, August 2012. AR 35,7%. [https://ieeexplore.ieee.org/document/6337734/](https://ieeexplore.ieee.org/document/6337734/)
 
-H. Y. ZHANG, L. ZHANG, C. URTADO, S. VAUTTIER and M. HUCHARD. **A three-level component model in component-based software development.** Proceedings of the 11th International Conference on Generative Programming and Component Engineering, ACM. Dresden, Germany, September 2012. AR 42,9%. 
+H. Y. ZHANG, L. ZHANG, C. URTADO, S. VAUTTIER and M. HUCHARD. **A three-level component model in component-based software development.** Proceedings of the 11th International Conference on Generative Programming and Component Engineering, ACM. Dresden, Germany, September 2012. AR 42,9%. [https://hal.science/hal-00718290](https://hal.science/hal-00718290) 
 
 L. Zhang, H. Zhang, Z. Fang, R. Zapata & M. Huchard. **A Domain Specific Architecture
 Description Language for Autonomous Mobile Robots.** In Information and Automation
-(ICIA), 2012 International Conference on, pages 283-288. IEEE, 2012.
+(ICIA), 2012 International Conference on, pages 283-288. IEEE, 2012. [https://ieeexplore.ieee.org/document/6246819/](https://ieeexplore.ieee.org/document/6246819/)
 
-H. Y. Zhang, B. Hamid and D. Gouteux. **A metamodel for representing safety lifecycle development process.** In Proceedings of the 6th International Conference on Software Engineering Advances (ICSEA'11), Barcelona, Spain, October 2011. AR 30%. 
+H. Y. Zhang, B. Hamid and D. Gouteux. **A metamodel for representing safety lifecycle development process.** In Proceedings of the 6th International Conference on Software Engineering Advances (ICSEA'11), Barcelona, Spain, October 2011. AR 30%. [http://thinkmind.org/download.php?articleid=icsea_2011_24_10_10283](http://thinkmind.org/download.php?articleid=icsea_2011_24_10_10283) 
 
-H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Architecture-centric component-based development needs a three-level ADL.** Proceedings of the 4th European Conference on Software Architecture (ECSA'10), M. A. Babar and I. Gorton editors, pages 295-310. LNCS 6285, Springer. Copenhagen, Denmark, August 2010. AR 25,3%. 
+H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Architecture-centric component-based development needs a three-level ADL.** Proceedings of the 4th European Conference on Software Architecture (ECSA'10), M. A. Babar and I. Gorton editors, pages 295-310. LNCS 6285, Springer. Copenhagen, Denmark, August 2010. AR 25,3%. [https://link.springer.com/chapter/10.1007/978-3-642-15114-9_22](https://link.springer.com/chapter/10.1007/978-3-642-15114-9_22)
 
 H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Architecture-centric development and
 evolution processes for component-based software.** In Proceedings of 22nd International Conference on
-Software Engineering and Knowledge Engineering (SEKE'10), San Francisco Bay, USA, July 2010. 
+Software Engineering and Knowledge Engineering (SEKE'10), San Francisco Bay, USA, July 2010. [https://hal.science/hal-00534684](https://hal.science/hal-00534684) 
 
 H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Dedal: un ADL à trois
 dimensions pour gérer l'évolution des architectures à base de composants.** In Proceedings of Conférence Francophone sur les
@@ -97,11 +97,11 @@ Architectures Logicielles (CAL2010).
 
 H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven process for the gradual evolution
 of component-based software.** In Proceedings of the 20th Australian Software
-Engineering Conference (ASWEC'09). IEEE. Gold Coast, Australia, April 2009. 
+Engineering Conference (ASWEC'09). IEEE. Gold Coast, Australia, April 2009. [https://ieeexplore.ieee.org/document/5076647/](https://ieeexplore.ieee.org/document/5076647/)
 
 H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven gradual and dynamic software
 assembly evolution.** In Proceedings of the International Conference on
-Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350, IEEE. Vienna, Austria, December 2008. 
+Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350, IEEE. Vienna, Austria, December 2008. [https://ieeexplore.ieee.org/document/5172649/](https://ieeexplore.ieee.org/document/5172649/)
 
 ### Workshop
 
