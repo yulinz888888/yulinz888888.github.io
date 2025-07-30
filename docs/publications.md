@@ -13,9 +13,13 @@ Title: A multi-dimensional architecture description language for forward and rev
 
 ### Journal and Chapters
 
+<<<<<<< HEAD
 Haixiao Wang, Xiaochuan Luo, Huaxi (Yulin) Zhang, **GPU-accelerated estimation of heat transfer coefficients in continuous casting under large interference by a novel multiagent-based dimensional learning Jaya algorithm**,
 Case Studies in Thermal Engineering, Volume 61,
 2024, 104974, ISSN 2214-157X, [https://doi.org/10.1016/j.csite.2024.104974](https://doi.org/10.1016/j.csite.2024.104974).
+=======
+Weixiang Xu, Xiaochuan Luo, Yejian Zhao, Yulin Zhang, **Graph neural architecture for dynamic hybrid flowshop: Addressing stochastic events and uncertain processing sequences.** In: Neurocomputing, Volume 648, 2025, 130636, ISSN 0925-2312. [https://doi.org/10.1016/j.neucom.2025.130636](https://doi.org/10.1016/j.neucom.2025.130636)
+>>>>>>> 423094cb013119b379576a778e56c75ca96f2977
 
 Lucien Ngale, Eddy Caron, Yulin Zhang, **Fog-Robotics Infrastructures Simulation-Based Sizing Approach.** In: Cloud Computing and Services Science, Springer Nature Switzerland, 2024. Print ISBN: 978-3-031-68164-6, Electronic ISBN: 978-3-031-68165-3. [https://www.springerprofessional.de/en/fog-robotics-infrastructures-simulation-based-sizing-approach/27471668](https://www.springerprofessional.de/en/fog-robotics-infrastructures-simulation-based-sizing-approach/27471668)
 
@@ -25,7 +29,9 @@ Juntao Zhao, Mhand Hifi, Yulin Zhang, Xiaochuan Luo, **A Cooperative Machine Lea
 
 Huaxi (Yulin) Zhang, Yuyang Wang, Xiaochuan Luo, Baptiste Mereaux and Lei Zhang, **Robust Localization Algorithm for Indoor Robots Based on the Branch-and-Bound Strategy.** Journal of Engineering Research and Sciences, vol.3, pp. 22-42, 2024. [https://www.jenrs.com/v03/i02/p004/](https://www.jenrs.com/v03/i02/p004/)
 
-Yejian Zhao, Xiaochuan Luo, Huaxi (Yulin) Zhang, **The application of heterogeneous graph neural network and deep reinforcement learning in hybrid flow shop scheduling problem.** Comput. Ind. Eng. 187: 109802 (2024). [https://www.sciencedirect.com/science/article/abs/pii/S0360835223008264](https://www.sciencedirect.com/science/article/abs/pii/S0360835223008264)
+Yejian Zhao, Xiaochuan Luo, Huaxi (Yulin) Zhang, **The application of heterogeneous graph neural network and deep reinforcement learning in hybrid flow shop scheduling problem.** Computers & Industrial Engineering. 187: 109802 (2024). [https://www.sciencedirect.com/science/article/abs/pii/S0360835223008264](https://www.sciencedirect.com/science/article/abs/pii/S0360835223008264)
+
+Wang, Haixiao, Xiaochuan Luo, and Huaxi Yulin Zhang. **GPU-accelerated estimation of heat transfer coefficients in continuous casting under large interference by a novel multiagent-based dimensional learning Jaya algorithm.** Case Studies in Thermal Engineering 61 (2024): 104974. [https://www.sciencedirect.com/science/article/abs/pii/S2213138823008852](https://www.sciencedirect.com/science/article/abs/pii/S2213138823008852)
 
 Yang Yu, Xiaochuan Luo, Yuan Wang, Huaxi (Yulin) Zhang, **Estimation of boundary condition of two-dimensional nonlinear PDE with application to continuous casting.** Comput. Math. Appl. 80(12): 3082-3097 (2020). [https://www.sciencedirect.com/science/article/pii/S0898122120304235](https://www.sciencedirect.com/science/article/pii/S0898122120304235)
 
@@ -37,6 +43,9 @@ Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011. [htt
 
 
 ### Conference
+
+Alexandre Bazin, Alain Gutierrez, Marianne Huchard, Pierre Martin, Yulin Zhang:
+Variability-Driven User-Story Generation Using LLM and Triadic Concept Analysis. ENASE 2025: 618-625. [arXiv:2504.08666](https://arxiv.org/abs/2504.08666)
 
 F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **"IntelliMove: Enhancing Robotic Planning with Semantic Mapping."** In: Proceedings of the 25th Towards Autonomous Robotic Systems (TAROS) Conference, August 2024, London, UK, Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence, vol. 15051-15052, Springer. [https://arxiv.org/abs/2410.14851](https://arxiv.org/abs/2410.14851)
 
