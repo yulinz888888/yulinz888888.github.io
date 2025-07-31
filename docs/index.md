@@ -8,11 +8,11 @@ hide:
 
 ## Research Focus: AI Engineering
 
-• Founder of Master in Intelligent Manufacturing & Robotics (100% placement)
-
 • Principal Investigator, AiBle Project (€4.9M) - AI-powered Healthcare Robotics  
 
 • Conference Chair, ICCR (International Conference on Cloud and Robotics)
+
+• Founder of Master in Intelligent Manufacturing & Robotics (100% placement)
 
 ## Recognition
 
