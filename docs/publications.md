@@ -31,8 +31,6 @@ Huaxi (Yulin) Zhang, Yuyang Wang, Xiaochuan Luo, Baptiste Mereaux and Lei Zhang,
 
 Yejian Zhao, Xiaochuan Luo, Huaxi (Yulin) Zhang, **The application of heterogeneous graph neural network and deep reinforcement learning in hybrid flow shop scheduling problem.** Computers & Industrial Engineering. 187: 109802 (2024). [https://www.sciencedirect.com/science/article/abs/pii/S0360835223008264](https://www.sciencedirect.com/science/article/abs/pii/S0360835223008264)
 
-Wang, Haixiao, Xiaochuan Luo, and Huaxi Yulin Zhang. **GPU-accelerated estimation of heat transfer coefficients in continuous casting under large interference by a novel multiagent-based dimensional learning Jaya algorithm.** Case Studies in Thermal Engineering 61 (2024): 104974. [https://www.sciencedirect.com/science/article/abs/pii/S2213138823008852](https://www.sciencedirect.com/science/article/abs/pii/S2213138823008852)
-
 Yang Yu, Xiaochuan Luo, Yuan Wang, Huaxi (Yulin) Zhang, **Estimation of boundary condition of two-dimensional nonlinear PDE with application to continuous casting.** Comput. Math. Appl. 80(12): 3082-3097 (2020). [https://www.sciencedirect.com/science/article/pii/S0898122120304235](https://www.sciencedirect.com/science/article/pii/S0898122120304235)
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A formal approach for managing component-based architecture evolution.** Sci. Comput. Program. 127: 24-49 (2016), Elsevier 2016. [https://www.sciencedirect.com/science/article/pii/S0167642316000794](https://www.sciencedirect.com/science/article/pii/S0167642316000794)
@@ -44,8 +42,7 @@ Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011. [htt
 
 ### Conference
 
-Alexandre Bazin, Alain Gutierrez, Marianne Huchard, Pierre Martin, Yulin Zhang:
-Variability-Driven User-Story Generation Using LLM and Triadic Concept Analysis. ENASE 2025: 618-625. [arXiv:2504.08666](https://arxiv.org/abs/2504.08666)
+Alexandre Bazin, Alain Gutierrez, Marianne Huchard, Pierre Martin, Yulin Zhang. **Variability-Driven User-Story Generation Using LLM and Triadic Concept Analysis.** ENASE 2025: 618-625. [https://arxiv.org/abs/2504.08666](https://arxiv.org/abs/2504.08666)
 
 F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **"IntelliMove: Enhancing Robotic Planning with Semantic Mapping."** In: Proceedings of the 25th Towards Autonomous Robotic Systems (TAROS) Conference, August 2024, London, UK, Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence, vol. 15051-15052, Springer. [https://arxiv.org/abs/2410.14851](https://arxiv.org/abs/2410.14851)
 
@@ -53,15 +50,15 @@ Juntao Zhao, Mhand Hifi, Yulin Zhang, Xiaochuan Luo, **"A Cooperative Machine Le
 
 Zhao, Juntao, Xiaochuan Luo, Huaxi Zhang, Xin Wang, and Weichao Wang. **Vision Based Target Following UGV System Using YOLOv5 and ROS Platform**. In Proceedings of 2022 International Conference on Autonomous Unmanned Systems (ICAUS 2022), pp. 281-291. Singapore: Springer Nature Singapore, 2023. [https://link.springer.com/chapter/10.1007/978-981-99-0479-2_27](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_27)
 
-H. Zhang and L. Zhang, **Cloud Robotics Architecture: Trends and Challenges**, 2019 IEEE International Conference on Service-Oriented System Engineering (SOSE), San Francisco East Bay, CA, USA, 2019, pp. 362-3625. [https://ieeexplore.ieee.org/document/8705800/](https://ieeexplore.ieee.org/document/8705800/)
+H. Zhang and L. Zhang, **Cloud Robotics Architecture: Trends and Challenges**, 2019 IEEE International Conference on Service-Oriented System Engineering (SOSE), San Francisco East Bay, CA, USA, 2019, pp. 362-3625. [https://ieeexplore.ieee.org/document/8705800](https://ieeexplore.ieee.org/document/8705800)
 
 Zheng Guoxian, Zhang Lei, Zhang Yulin, Bo Ding, **Design of an Indoor Exploration and Multi-Objective Navigation System**, 2018 37th Chinese Control Conference, Wuhan, China. [https://ieeexplore.ieee.org/document/8483284](https://ieeexplore.ieee.org/document/8483284)
 
-J. Luo, L. Zhang and H. Y. Zhang, **Design of a cloud robotics middleware based on web service technology**, 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 487-492. [https://ieeexplore.ieee.org/document/8023654/](https://ieeexplore.ieee.org/document/8023654/)
+J. Luo, L. Zhang and H. Y. Zhang, **Design of a cloud robotics middleware based on web service technology**, 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 487-492. [https://ieeexplore.ieee.org/document/8023654](https://ieeexplore.ieee.org/document/8023654)
 
-C. Huang, L. Zhang, T. Liu, and H.Y. Zhang, **A Control Middleware for Cloud Robotics**, 13th IEEE International Conference on Information and Automation (IEEE ICIA 2016), Ningbo, China, 2016. [https://ieeexplore.ieee.org/document/7832130/](https://ieeexplore.ieee.org/document/7832130/)
+C. Huang, L. Zhang, T. Liu, and H.Y. Zhang, **A Control Middleware for Cloud Robotics**, 13th IEEE International Conference on Information and Automation (IEEE ICIA 2016), Ningbo, China, 2016. [https://ieeexplore.ieee.org/document/7832130](https://ieeexplore.ieee.org/document/7832130)
 
-Huaxi (Yulin) Zhang, Lei Zhang, Zheng Fang, Harold Trannois, Marianne Huchard, and Rene Zapata. **CRALA: Towards a domain specific language of architecture-centric cloud robotics.** In Proc. of the 2015 IEEE Int. Conf. on Information and Automation (ICIA2015), Lijiang, China, August 2015. [https://ieeexplore.ieee.org/document/7279332/](https://ieeexplore.ieee.org/document/7279332/)
+Huaxi (Yulin) Zhang, Lei Zhang, Zheng Fang, Harold Trannois, Marianne Huchard, and Rene Zapata. **CRALA: Towards a domain specific language of architecture-centric cloud robotics.** In Proc. of the 2015 IEEE Int. Conf. on Information and Automation (ICIA2015), Lijiang, China, August 2015. [https://ieeexplore.ieee.org/document/7279332](https://ieeexplore.ieee.org/document/7279332)
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **An evolution management model for multi-level component-based software architectures.** Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering. Pittsburgh, USA, July 2015. AR 30%. [https://hal.science/hal-01245924](https://hal.science/hal-01245924)
 
@@ -69,11 +66,11 @@ L. Zhang, H. Zhang, Quan Xu, Z. Fang and R. Zapataz. **Dedal2: An ADL supporting
 
 H.Y. Zhang, L. Zhang, Q. Xu, C. Urtado, S. Vauttier and M. Huchard. **A formalized architecture-centric evolution process for component-based software system.** Intelligent Control and Automation (WCICA), 2014 11th World Congress on, Shenyang, 2014, pp. 3461-3466. [https://ieeexplore.ieee.org/document/7053291/](https://ieeexplore.ieee.org/document/7053291/)
 
-A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Fostering component reuse: automating the coherence verification of multi-level architecture descriptions.** Proceedings of the 9th International Conference on Software Engineering Advances. Nice, France, October 2014. AR 30%. [http://hal-lirmm.ccsd.cnrs.fr/MAREL/hal-01245917v1](http://hal-lirmm.ccsd.cnrs.fr/MAREL/hal-01245917v1)
+A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Fostering component reuse: automating the coherence verification of multi-level architecture descriptions.** Proceedings of the 9th International Conference on Software Engineering Advances. Nice, France, October 2014. AR 30%. [https://hal-lirmm.ccsd.cnrs.fr/MAREL/hal-01245917v1](https://hal-lirmm.ccsd.cnrs.fr/MAREL/hal-01245917v1)
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Formal rules for reliable component-based architecture evolution.** Proceedings of the 11th international symposium on Formal Aspects of Component Software. Bertinoro, Italy, September 2014. AR 45%. [https://link.springer.com/chapter/10.1007/978-3-319-15317-9_8](https://link.springer.com/chapter/10.1007/978-3-319-15317-9_8)
 
-A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A three-level formal model for software architecture evolution.** Proceedings of the 7th Seminar on Advanced Techniques &Tools for Software Evolution. L'Aquila, Italy, July 2014. [https://hal.science/hal-01244438v1/document](https://hal.science/hal-01244438v1/document)
+A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A three-level formal model for software architecture evolution.** Proceedings of the 7th Seminar on Advanced Techniques &Tools for Software Evolution. L'Aquila, Italy, July 2014. [https://hal.science/hal-01244438v1](https://hal.science/hal-01244438v1)
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Modélisation et vérification formelles en B des architectures logicielles à trois niveaux.** Actes de la troisième Conférence en IngénieriE du Logiciel, Catherine Dubois, Nicole Levy, Marie-Agnès Peraldi-Frati et Christelle Urtado éditeurs, pages 71-77. Paris, France, Juin 2014.
 
@@ -99,11 +96,11 @@ Architectures Logicielles (CAL2010). [https://hal.science/hal-00534688](https://
 
 H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven process for the gradual evolution
 of component-based software.** In Proceedings of the 20th Australian Software
-Engineering Conference (ASWEC'09). IEEE. Gold Coast, Australia, April 2009. [https://ieeexplore.ieee.org/document/5076647/](https://ieeexplore.ieee.org/document/5076647/)
+Engineering Conference (ASWEC'09). IEEE. Gold Coast, Australia, April 2009. [https://ieeexplore.ieee.org/document/5076647](https://ieeexplore.ieee.org/document/5076647)
 
 H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven gradual and dynamic software
 assembly evolution.** In Proceedings of the International Conference on
-Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350, IEEE. Vienna, Austria, December 2008. [https://ieeexplore.ieee.org/document/5172649/](https://ieeexplore.ieee.org/document/5172649/)
+Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350, IEEE. Vienna, Austria, December 2008. [https://ieeexplore.ieee.org/document/5172649](https://ieeexplore.ieee.org/document/5172649)
 
 ### Workshop
 

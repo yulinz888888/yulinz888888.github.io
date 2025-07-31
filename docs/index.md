@@ -4,18 +4,27 @@ hide:
   - toc
 ---
 
-Associate professor, [Robotics, AI & 3D printing Team](https://www.crispi-upjv.fr/) in University of Picardie Jules Verne
+# Associate Professor | University of Picardie Jules Verne
 
+## Research Focus: AI Engineering
 
-Program Director of Master Intelligent Manufacturing & Robotics ([Link](https://www.master-robotique.fr/)), INSSET/ University of Picardie Jules Verne
+• Founder of Master in Intelligent Manufacturing & Robotics (100% placement)
 
+• Principal Investigator, AiBle Project (€4.9M) - AI-powered Healthcare Robotics  
 
-Google Cloud Faculty Expert ([Link](https://cloud.google.com/edu/faculty/experts))
+• Conference Chair, ICCR (International Conference on Cloud and Robotics)
+
+## Recognition
+
+AWS Certified Solutions Architect - Professional | Google Cloud Faculty Expert | Microsoft Research Award
+
+---
 
 ![Robot](img/bandeau.jpg)
 
-> Cloud Computing / Software Architecture / Model Driven Engineering / AI / Cloud Robotics
+> Fueled by curiosity, guided by purpose - building AI that matters.
 
-### News
-> AWS Certified Solutions Architect – Professional, 2022
-> Program Committee Membership, MODELSWARD 2021
+<!-- ### Affiliations
+
+- [University of Picardie Jules Verne](https://www.u-picardie.fr/en)
+- [Google Cloud Faculty Expert](https://cloud.google.com/edu/faculty/experts) -->
