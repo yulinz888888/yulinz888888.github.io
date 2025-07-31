@@ -9,7 +9,7 @@ hide:
 
 Title: A multi-dimensional architecture description language for forward and reverse evolution of component-based software
 
-Link: [http://www.theses.fr/2010MON20023](http://www.theses.fr/2010MON20023) | [PDF](assets/pdf/ZHANG_2010_thesis_diffusion.pdf)
+Link: [http://www.theses.fr/2010MON20023](http://www.theses.fr/2010MON20023) | [PDF](assets/pdf/ZHANG_2010_thesis_diffusion.pdf) (English, with French cover page)
 
 ## Publications
 
