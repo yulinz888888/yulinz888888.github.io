@@ -9,6 +9,8 @@ hide:
 
 Title: A multi-dimensional architecture description language for forward and reverse evolution of component-based software
 
+Link: [http://www.theses.fr/2010MON20023](http://www.theses.fr/2010MON20023) | [PDF](assets/pdf/ZHANG_2010_thesis_diffusion.pdf)
+
 ## Publications
 
 ### Journal and Chapters
@@ -33,7 +35,7 @@ Wang, Haixiao, Xiaochuan Luo, and Huaxi Yulin Zhang. **GPU-accelerated estimatio
 
 Yang Yu, Xiaochuan Luo, Yuan Wang, Huaxi (Yulin) Zhang, **Estimation of boundary condition of two-dimensional nonlinear PDE with application to continuous casting.** Comput. Math. Appl. 80(12): 3082-3097 (2020). [https://www.sciencedirect.com/science/article/pii/S0898122120304235](https://www.sciencedirect.com/science/article/pii/S0898122120304235)
 
-A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A formal approach for managing component-based architecture evolution.** Sci. Comput. Program. 127: 24-49 (2016), Elsevier 2016.
+A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A formal approach for managing component-based architecture evolution.** Sci. Comput. Program. 127: 24-49 (2016), Elsevier 2016. [https://www.sciencedirect.com/science/article/pii/S0167642316000794](https://www.sciencedirect.com/science/article/pii/S0167642316000794)
 
 B. Hamid, H. Y. Zhang, J. Geisel & D. Gonzalez. **First Experiment on Modeling Safety
 Lifecycle Process in Railway Systems.** International Journal of Dependable and
@@ -49,7 +51,7 @@ F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **"IntelliMove: En
 
 Juntao Zhao, Mhand Hifi, Yulin Zhang, Xiaochuan Luo, **"A Cooperative Machine Learning-Based Algorithm: The Case of Max-Min Knapsack Problem with Multiple Scenarios."** In: Proceedings of the International Conference on Intelligent Systems Design and Applications, Cham: Springer Nature Switzerland, December 2023, pp. 211-220.
 
-Zhao, Juntao, Xiaochuan Luo, Huaxi Zhang, Xin Wang, and Weichao Wang. **Vision Based Target Following UGV System Using YOLOv5 and ROS Platform**. In Proceedings of 2022 International Conference on Autonomous Unmanned Systems (ICAUS 2022), pp. 281-291. Singapore: Springer Nature Singapore, 2023.
+Zhao, Juntao, Xiaochuan Luo, Huaxi Zhang, Xin Wang, and Weichao Wang. **Vision Based Target Following UGV System Using YOLOv5 and ROS Platform**. In Proceedings of 2022 International Conference on Autonomous Unmanned Systems (ICAUS 2022), pp. 281-291. Singapore: Springer Nature Singapore, 2023. [https://link.springer.com/chapter/10.1007/978-981-99-0479-2_27](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_27)
 
 H. Zhang and L. Zhang, **Cloud Robotics Architecture: Trends and Challenges**, 2019 IEEE International Conference on Service-Oriented System Engineering (SOSE), San Francisco East Bay, CA, USA, 2019, pp. 362-3625. [https://ieeexplore.ieee.org/document/8705800/](https://ieeexplore.ieee.org/document/8705800/)
 
@@ -71,7 +73,7 @@ A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Fostering compon
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Formal rules for reliable component-based architecture evolution.** Proceedings of the 11th international symposium on Formal Aspects of Component Software. Bertinoro, Italy, September 2014. AR 45%. [https://link.springer.com/chapter/10.1007/978-3-319-15317-9_8](https://link.springer.com/chapter/10.1007/978-3-319-15317-9_8)
 
-A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A three-level formal model for software architecture evolution.** Proceedings of the 7th Seminar on Advanced Techniques &Tools for Software Evolution. L'Aquila, Italy, July 2014.
+A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A three-level formal model for software architecture evolution.** Proceedings of the 7th Seminar on Advanced Techniques &Tools for Software Evolution. L'Aquila, Italy, July 2014. [https://hal.science/hal-01244438v1/document](https://hal.science/hal-01244438v1/document)
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Modélisation et vérification formelles en B des architectures logicielles à trois niveaux.** Actes de la troisième Conférence en IngénieriE du Logiciel, Catherine Dubois, Nicole Levy, Marie-Agnès Peraldi-Frati et Christelle Urtado éditeurs, pages 71-77. Paris, France, Juin 2014.
 
@@ -93,7 +95,7 @@ Software Engineering and Knowledge Engineering (SEKE'10), San Francisco Bay, USA
 
 H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Dedal: un ADL à trois
 dimensions pour gérer l'évolution des architectures à base de composants.** In Proceedings of Conférence Francophone sur les
-Architectures Logicielles (CAL2010). 
+Architectures Logicielles (CAL2010). [https://hal.science/hal-00534688](https://hal.science/hal-00534688) 
 
 H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven process for the gradual evolution
 of component-based software.** In Proceedings of the 20th Australian Software
@@ -105,9 +107,9 @@ Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350
 
 ### Workshop
 
-Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015.
+Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015. [https://arxiv.org/abs/1701.03608](https://arxiv.org/abs/1701.03608)
 
-Arnaud Lefray, Eddy Caron, Jonathan Rouzaud-Cornabas, Zhang Huaxi Yulin, Aline Bousquet, et al.. **Security-Aware Models for Clouds.** 22th IEEE International Symposium on High Performance Distributed Computing, Jun 2013, New York, United States. 2013.
+Arnaud Lefray, Eddy Caron, Jonathan Rouzaud-Cornabas, Zhang Huaxi Yulin, Aline Bousquet, et al.. **Security-Aware Models for Clouds.** 22th IEEE International Symposium on High Performance Distributed Computing, Jun 2013, New York, United States. 2013. [https://hal.science/hal-00840734](https://hal.science/hal-00840734)
 
 S. Trujillo, I. Alonso, B. Hamid, D. Gonzalez, M. Blanco and H. Y. Zhang. **Towards variability support for security and dependability patterns : a case study.** In SPLC Workshops, page 27, 2011.
 

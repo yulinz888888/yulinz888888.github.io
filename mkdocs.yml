@@ -17,9 +17,6 @@ nav:
   - Tools: tools.md
   - Teaching: teaching.md
   - Contact: contact.md
-  - Papers:
-    - Taros2024: pubs/taros2024.md
-    - iros2022: pubs/iros2022.md
 
 markdown_extensions:
   - toc
