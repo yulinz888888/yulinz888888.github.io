@@ -42,6 +42,10 @@ Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011. [htt
 
 ### Conference
 
+Hani Guenoune, Alain Gutierrez, Marianne Huchard, Mathieu Lafourcade, Pierre Martin, André Miralles, Yulin (Huaxi) Zhang. **LLM-Assisted Relational Concept Analysis for Class Model Restructuring**. To appear in Proceedings of the 2nd International Joint Conference on Conceptual Knowledge Structures (CONCEPTS 2025), Cluj-Napoca, Romania, 2025.
+
+Alain Gutierrez, Marianne Huchard, Pierre Martin, Yulin (Huaxi) Zhang. **Empowering Relational Concept Analysis using Large Language Model knowledge delivery**. To appear in Proceedings of the 2nd International Joint Conference on Conceptual Knowledge Structures (CONCEPTS 2025), Cluj-Napoca, Romania, 2025.
+
 Alexandre Bazin, Alain Gutierrez, Marianne Huchard, Pierre Martin, Yulin Zhang. **Variability-Driven User-Story Generation Using LLM and Triadic Concept Analysis.** ENASE 2025: 618-625. [https://arxiv.org/abs/2504.08666](https://arxiv.org/abs/2504.08666)
 
 F. Ngom, H. Y. Zhang, L. Zhang, K. Godary-Dejean, M. Huchard, **"IntelliMove: Enhancing Robotic Planning with Semantic Mapping."** In: Proceedings of the 25th Towards Autonomous Robotic Systems (TAROS) Conference, August 2024, London, UK, Lecture Notes in Computer Science/Lecture Notes in Artificial Intelligence, vol. 15051-15052, Springer. [https://arxiv.org/abs/2410.14851](https://arxiv.org/abs/2410.14851)
