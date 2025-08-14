@@ -108,6 +108,8 @@ Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350
 
 ### Workshop
 
+Huaxi (Yulin) Zhang, Melanie Fontaine, Marianne Huchard, Baptiste Mereaux, Olivier Remy-Neris. **Distribution of Responsibility During the Usage of AI-Based Exoskeletons for Upper Limb Rehabilitation.** Robot Trust for Symbiotic Societies (RTSS) at IROS 2022. [https://arxiv.org/abs/2410.16887](https://arxiv.org/abs/2410.16887)
+
 Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015. [https://arxiv.org/abs/1701.03608](https://arxiv.org/abs/1701.03608)
 
 Arnaud Lefray, Eddy Caron, Jonathan Rouzaud-Cornabas, Zhang Huaxi Yulin, Aline Bousquet, et al.. **Security-Aware Models for Clouds.** 22th IEEE International Symposium on High Performance Distributed Computing, Jun 2013, New York, United States. 2013. [https://hal.science/hal-00840734](https://hal.science/hal-00840734)
