@@ -31,3 +31,6 @@ This is a personal academic website built with MkDocs and the Material for MkDoc
 
 ## Codespaces
 This repository is ready for GitHub Codespaces. See `.devcontainer/` for configuration.
+
+## github action 
+Auto deploy after each commit to main branch
