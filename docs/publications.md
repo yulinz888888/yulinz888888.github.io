@@ -15,6 +15,8 @@ Link: [http://www.theses.fr/2010MON20023](http://www.theses.fr/2010MON20023) | [
 
 ### Journal and Chapters
 
+Yulin Jin, Xiaochuan Luo, Xiangwei Kong, Yulin Zhang, **Fault diagnosis via multi-sensor fusion with auxiliary contrastive learning and phased fine-tuning,** Engineering Applications of Artificial Intelligence, Volume 162, Part B, 2025, 112427, ISSN 0952-1976. [https://doi.org/10.1016/j.engappai.2025.112427](https://doi.org/10.1016/j.engappai.2025.112427)
+
 Weixiang Xu, Xiaochuan Luo, Yejian Zhao, Yulin Zhang, **Graph neural architecture for dynamic hybrid flowshop: Addressing stochastic events and uncertain processing sequences.** In: Neurocomputing, Volume 648, 2025, 130636, ISSN 0925-2312. [https://doi.org/10.1016/j.neucom.2025.130636](https://doi.org/10.1016/j.neucom.2025.130636)
 
 Haixiao Wang, Xiaochuan Luo, Huaxi (Yulin) Zhang, **GPU-accelerated estimation of heat transfer coefficients in continuous casting under large interference by a novel multiagent-based dimensional learning Jaya algorithm**,
